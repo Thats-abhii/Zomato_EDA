@@ -75,7 +75,7 @@ This project involves Exploratory Data Analysis (EDA) on the Zomato dataset to u
 
 📧 infoabhishek0504@gmail.com
 📍 Bengaluru, India  
-🔗 
+🔗https://www.linkedin.com/in/abhishek-pareek-10522a326
 
 
 > 💼 *This project demonstrates practical data analysis skills and is suitable for entry-level roles in Data Analytics, Business Intelligence, and Consulting.*
